@@ -81,4 +81,4 @@ Create Config rule for required tags:
 
 5. Create rule
 
-![Cost by Owner](screenshots/config-compliance.png)
+![Compliance](screenshots/config-compliance.png)
